@@ -19,10 +19,10 @@
 
 I'm an **Applications Developer I at Gijima**, working across enterprise applications, SQL Server and operational systems. My experience spans requirements and workflow analysis, application development, testing, release preparation and production support.
 
-I like following a problem through the layers: understanding what a user needs, investigating the application and its data, then helping deliver a change that works in practice.
+I've visited operational sites, worked with clients and end users, and investigated application and data issues affecting their workflows. Those experiences shape how I approach a change: understand the business process it needs to support, consider its impact on connected systems, and help prepare it for testing and release.
 
 **Understand the process**<br />
-Requirements, business rules, workflow analysis and functional documentation. Customer-site visits help me connect system behaviour with the way people actually work.
+I translate user needs and operational workflows into requirements, business rules and functional documentation.
 
 **Build and investigate**<br />
 C# and VB.NET application changes, integrations and SQL Server investigations. I work with procedures, views, triggers and data validation, including schema comparison before testing and release.
