@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+<title id="title">Lindokuhle Sono — Applications, Systems, Data</title>
+<desc id="desc">An ivory name on forest green, with warm copper lines connecting a workflow to a database and a verified change.</desc>
+<defs><style>
+.paper{fill:#f5f0e5}.muted{fill:#d2c8b6}.accent{stroke:#dfb894}.line{fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+</style></defs>
+<rect width="1200" height="390" rx="20" fill="#19211c"/>
+<path d="M870 0C1060 60 930 235 1200 255M930 0C1120 60 990 235 1200 210M990 0C1180 60 1050 235 1200 165" stroke="#dfb894" stroke-opacity=".12" fill="none" stroke-width="1.5"/>
+<path d="M52 56h36" class="accent line"/>
+<text x="102" y="62" class="muted" font-family="Arial,sans-serif" font-size="17" letter-spacing="4">APPLICATIONS · SYSTEMS · DATA</text>
+<text x="50" y="173" class="paper" font-family="Georgia,serif" font-size="86" letter-spacing="-3">Lindokuhle</text>
+<text x="50" y="265" class="paper" font-family="Georgia,serif" font-size="86" letter-spacing="-3">Sono.</text>
+<path d="M58 289C148 279 219 286 255 280" class="accent line" stroke-width="3"/>
+<text x="54" y="340" class="muted" font-family="Arial,sans-serif" font-size="20">From user needs to working systems.</text>
+<g class="accent line" transform="translate(725 102)">
+<path d="M0 60h42q25 0 25 25v60q0 25 25 25h62M0 250h42q25 0 25-25v-30q0-25 25-25h62" opacity=".65"/>
+<rect x="-15" y="42" width="36" height="36" rx="6" fill="#19211c"/><path d="M-6 60h18m-9-9v18"/>
+<circle cx="3" cy="250" r="18" fill="#19211c"/><path d="m-4 250 5 5 10-12"/>
+<ellipse cx="190" cy="147" rx="37" ry="13"/><path d="M153 147v48c0 17 74 17 74 0v-48m-74 24c0 17 74 17 74 0"/>
+<path d="M227 170h60q22 0 22-22v-58h42"/>
+<circle cx="367" cy="90" r="25" fill="#19211c"/><path d="m355 90 8 8 17-19"/>
+</g>
+</svg>
