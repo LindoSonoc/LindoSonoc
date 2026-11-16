@@ -17,15 +17,9 @@
 
 ---
 
-### The question behind my work
-
-> What should happen here — and what actually happens?
-
 I'm an **Applications Developer I at Gijima**, working across enterprise applications, SQL Server and operational systems. My experience spans requirements and workflow analysis, application development, testing, release preparation and production support.
 
 I like following a problem through the layers: understanding what a user needs, investigating the application and its data, then helping deliver a change that works in practice.
-
-### Where I contribute
 
 **Understand the process**<br />
 Requirements, business rules, workflow analysis and functional documentation. Customer-site visits help me connect system behaviour with the way people actually work.
