@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="./assets/johannesburg-sunset.png" alt="Johannesburg skyline and railway lines at sunset, with a sunflower in the foreground" width="100%" />
+  <img src="./assets/johannesburg-sunset-named.png" alt="Lindokuhle Sono — Applications · Systems · Data. Johannesburg at sunset with a sunflower and railway lines." width="100%" />
 </p>
-
-<h1 align="center">Lindokuhle Sono</h1>
 
 <p align="center">
   <strong>Applications Developer I · Johannesburg, South Africa</strong><br />
