@@ -54,7 +54,7 @@ I graduated **cum laude with an Advanced Diploma in ICT — Applications Develop
 
 As a **SQL Database Tutor**, I learnt how much a different explanation or example can help someone understand a difficult concept. That habit still shapes how I document work and share knowledge.
 
-Outside technology, I enjoy photography. The landscapes in my portfolio are part of how I see the world.
+Beyond work, I enjoy photography, sketching and painting. I also spend time gaming, watching anime and exploring topics that spark my curiosity.
 
 ---
 
