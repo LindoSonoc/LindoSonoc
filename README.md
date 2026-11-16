@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Lindokuhle Sono — Applications, Systems, Data" width="100%" />
+  <img src="./assets/johannesburg-sunset.png" alt="Johannesburg skyline and railway lines at sunset, with a sunflower in the foreground" width="100%" />
 </p>
+
+<h1 align="center">Lindokuhle Sono</h1>
 
 <p align="center">
   <strong>Applications Developer I · Johannesburg, South Africa</strong><br />
@@ -30,16 +32,51 @@ C# and VB.NET application changes, integrations and SQL Server investigations. I
 **Test and improve**<br />
 Test matrices, functional and regression testing, QA/UAT support and reproducible defect reports. I've also developed a Python- and JavaScript-based GUI testing tool with AI assistance, capturing pass/fail results, failure screenshots and execution logs.
 
-### My working toolkit
+<h2 align="center">My working toolkit</h2>
 
-| Area | Technologies and practices |
-| :--- | :--- |
-| Applications | C# · VB.NET · Windows Forms · JavaScript · HTML · CSS |
-| Data | SQL Server · T-SQL · SSDT · Schema Compare · Data modelling |
-| Quality | Python · GUI test automation · Regression testing · QA/UAT |
-| Delivery | Git · Azure DevOps · Visual Studio · ServiceNow · IIS |
-| Analysis | Requirements · Business rules · Workflow mapping · UML |
-| Reporting | Power BI · Excel |
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="48" height="48" />
+  <img src="./assets/toolkit/vbnet.svg" alt="VB.NET" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="48" height="48" />
+</p>
+<p align="center">C# · VB.NET · JavaScript · Python</p>
+
+---
+
+<h3 align="center">Application development</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,html,css" alt=".NET, HTML5 and CSS3" width="156" height="48" />
+</p>
+<p align="center">.NET · Windows Forms · HTML · CSS · Systems integration</p>
+
+---
+
+<h3 align="center">Databases &amp; reporting</h3>
+<p align="center">
+  <img src="./assets/toolkit/sql-server.svg" alt="SQL Server" width="48" height="48" />
+  <img src="./assets/toolkit/ssdt.svg" alt="SQL Server Data Tools" width="48" height="48" />
+  <img src="./assets/toolkit/power-bi.svg" alt="Power BI" width="48" height="48" />
+  <img src="./assets/toolkit/excel.svg" alt="Microsoft Excel" width="48" height="48" />
+</p>
+<p align="center">SQL Server · T-SQL · SSDT · Schema Compare · Power BI · Excel</p>
+
+---
+
+<h3 align="center">Tools &amp; workflow</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,visualstudio" alt="Git and Visual Studio" width="102" height="48" />
+  <img src="./assets/toolkit/azure-devops.svg" alt="Azure DevOps" width="48" height="48" />
+  <img src="./assets/toolkit/servicenow.svg" alt="ServiceNow" width="48" height="48" />
+</p>
+<p align="center">Git · Visual Studio · Azure DevOps · ServiceNow · IIS</p>
+
+---
+
+<h3 align="center">Analysis &amp; quality</h3>
+<p align="center">Requirements · Business rules · Workflow mapping · UML<br />
+GUI test automation · Test matrices · Regression testing · QA/UAT</p>
 
 <details>
 <summary><strong>Academic foundations & additional tools</strong></summary>
